@@ -53,13 +53,13 @@ console.log(color);
 console.log(c);
 
 let randomValue: any = 10;
-console.log(randomValue);
+console.log("randomValue: ", randomValue);
 randomValue = [2, 3];
-console.log(randomValue);
+console.log("randomValue: ", randomValue);
 randomValue = "Hello";
-console.log(randomValue);
+console.log("randomValue: ", randomValue);
 
-console.log(randomValue.name);
+console.log("randomValue.name: ", randomValue.name);
 // console.log(randomValue());
 // console.log(randomValue.toUpperCase());
 
