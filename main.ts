@@ -15,8 +15,8 @@ let num: number = 456;
 
 let numString: string = num.toString();
 
-console.log(num);
-console.log(numString);
+console.log("num: ", num);
+console.log("numString: ", numString);
 
 console.log(
   "/************************ Typescript variable type *******************/"
